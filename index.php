@@ -37,6 +37,7 @@ $p1=get_tag($p,'table');
 		foreach($pi as $k=>$v){
 			$pi1=get_tag($v,'td');
 			//echo ($pi1);
+			//lok
 			for($i=0;$i<){
 				
 			}
